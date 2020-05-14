@@ -1,0 +1,415 @@
+Output for Garage:
+
+
+
+Garage Output Log
+
+Processed: 
+License Plate: JAV001  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV001
+Processed: 
+License Plate: JAV002  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV002
+Processed: 
+License Plate: JAV003  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV003
+Processed: 
+License Plate: JAV004  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV004
+Processed: 
+License Plate: JAV005  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV005
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV001
+PRINTING CARS IN GARAGE BEFORE- JAV002
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV004
+PRINTING CARS IN GARAGE BEFORE- JAV005
+
+Car: JAV001 was removed successfully.
+PRINTING CARS IN GARAGE AFTER- JAV002
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV004
+PRINTING CARS IN GARAGE AFTER- JAV005
+
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV002
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV004
+PRINTING CARS IN GARAGE BEFORE- JAV005
+
+Car parked at garage index [
+License Plate: JAV002  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+Car parked at garage index [
+License Plate: JAV003  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+PRINTING CARS IN GARAGE AFTER- JAV002
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV005
+
+Processed: 
+License Plate: JAV006  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV006
+Processed: 
+License Plate: JAV007  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV007
+Processed: 
+License Plate: JAV008  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV008
+Processed: 
+License Plate: JAV009  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV009
+Processed: 
+License Plate: JAV010  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV010
+Processed: 
+License Plate: JAV011  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV011
+Processed: 
+License Plate: JAV012  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV012
+Processed: 
+License Plate: JAV013  Parking Status: ARRIVE
+Sorry JAV013 Garage is FULL
+Processed: 
+License Plate: JAV014  Parking Status: ARRIVE
+Sorry JAV014 Garage is FULL
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV002
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV005
+PRINTING CARS IN GARAGE BEFORE- JAV006
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV009
+PRINTING CARS IN GARAGE BEFORE- JAV010
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car parked at garage index [
+License Plate: JAV002  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 2
+Car parked at garage index [
+License Plate: JAV003  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 2
+Car parked at garage index [
+License Plate: JAV005  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+PRINTING CARS IN GARAGE AFTER- JAV002
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV005
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV009
+PRINTING CARS IN GARAGE AFTER- JAV010
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+Car was requested to depart but no match found.
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+Car was requested to depart but no match found.
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV002
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV005
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV009
+PRINTING CARS IN GARAGE BEFORE- JAV010
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car parked at garage index [
+License Plate: JAV002  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 3
+Car parked at garage index [
+License Plate: JAV003  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 3
+PRINTING CARS IN GARAGE AFTER- JAV002
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV009
+PRINTING CARS IN GARAGE AFTER- JAV010
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+Processed: 
+License Plate: JAV015  Parking Status: ARRIVE
+Welcome to Venezia Hotel Garage -JAV015
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV002
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV009
+PRINTING CARS IN GARAGE BEFORE- JAV010
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+PRINTING CARS IN GARAGE BEFORE- JAV015
+
+Car parked at garage index [
+License Plate: JAV002  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 4
+Car parked at garage index [
+License Plate: JAV003  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 4
+Car parked at garage index [
+License Plate: JAV007  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+Car parked at garage index [
+License Plate: JAV008  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+Car parked at garage index [
+License Plate: JAV009  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+PRINTING CARS IN GARAGE AFTER- JAV002
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV009
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+PRINTING CARS IN GARAGE AFTER- JAV015
+
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV002
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV009
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+PRINTING CARS IN GARAGE BEFORE- JAV015
+
+Car: JAV002 was removed successfully.
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV009
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+PRINTING CARS IN GARAGE AFTER- JAV015
+
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV009
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+PRINTING CARS IN GARAGE BEFORE- JAV015
+
+Car parked at garage index [
+License Plate: JAV003  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 5
+Car parked at garage index [
+License Plate: JAV007  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 2
+Car parked at garage index [
+License Plate: JAV008  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 2
+Car parked at garage index [
+License Plate: JAV009  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 2
+Car parked at garage index [
+License Plate: JAV011  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+Car parked at garage index [
+License Plate: JAV012  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 1
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV009
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+Car was requested to depart but no match found.
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV009
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car parked at garage index [
+License Plate: JAV003  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 6
+Car parked at garage index [
+License Plate: JAV007  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 3
+Car parked at garage index [
+License Plate: JAV008  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 3
+PRINTING CARS IN GARAGE AFTER- JAV003
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV003
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car: JAV003 was removed successfully.
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV008
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV008
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car parked at garage index [
+License Plate: JAV007  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 4
+PRINTING CARS IN GARAGE AFTER- JAV007
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV007
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car: JAV007 was removed successfully.
+PRINTING CARS IN GARAGE AFTER- JAV011
+PRINTING CARS IN GARAGE AFTER- JAV012
+
+System.out
+System.out
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV011
+PRINTING CARS IN GARAGE BEFORE- JAV012
+
+Car parked at garage index [
+License Plate: JAV011  Parking Status: ARRIVE] was moved out temporarily. it's numofMoves counter: 2
+PRINTING CARS IN GARAGE AFTER- JAV011
+
+System.out
+System.out
+System.out
+PRINTING CARS IN GARAGE BEFORE- JAV011
+
+Car: JAV011 was removed successfully.
+
